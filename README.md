@@ -1,3 +1,5 @@
+**English version available: [README.en.md](README.en.md)**
+
 # Telemarketing Performance Indicators
 
 Sistema de acompanhamento de desempenho para empresas de telemarketing, desenvolvido com .NET 8 e seguindo os princípios do Domain-Driven Design (DDD).
