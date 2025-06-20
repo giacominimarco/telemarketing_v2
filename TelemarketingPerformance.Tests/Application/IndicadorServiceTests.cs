@@ -1,5 +1,4 @@
 using Moq;
-using TelemarketingPerformance.Application.DTOs;
 using TelemarketingPerformance.Application.Services;
 using TelemarketingPerformance.Domain.Entities;
 using TelemarketingPerformance.Domain.Enums;
