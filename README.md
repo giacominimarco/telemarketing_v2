@@ -121,10 +121,6 @@ Content-Type: application/json
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## ✨ Autor
-
-Seu Nome - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-
 ## 🙏 Agradecimentos
 
 - Qualyteam pelo desafio técnico
